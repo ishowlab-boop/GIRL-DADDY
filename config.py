@@ -30,21 +30,10 @@ REQUIRE_VALIDITY_FOR_TTS = False
 MAX_TTS_CHARS = int(os.getenv("MAX_TTS_CHARS", "200"))
 
 DEFAULT_MODELS = [
-    {"id": "a5e5bbe15fb6465fb113c1bab4de8b2e", "name": "Marie🤷‍♀️"},
+    {"id": "0f57b9f5c27e47f380193e4233126f5d", "name": "Mariya🤷‍♀️"},
     {"id": "89caeb03934840e791f7d13e9c03b6ef", "name": "Daisy🧕"},
-    {"id": "e3fbe8fdb0ea40d8a15d527ab854b8af", "name": "Ayesha🙇‍♀️"},
-    {"id": "b8daf8f8981a484abb8cc9520641b5dc", "name": "Anna🤭"},
-    {"id": "29913697e157485c941c737314c27819", "name": "Ruby👨‍🏫"},
-    {"id": "d75c78da679a4d8480e4bcfb6c60bdc6", "name": "Nora🧚‍♂️"},
-    {"id": "d39b35734b49454784d2dbcc17cd45b9", "name": "Denica👰‍♀️"},
-    {"id": "c5e4c4c57a084a0f9b5b277d36546ef0", "name": "Even👧"},
-    {"id": "2fe69a0850b54119ad97af8246e2f6a0", "name": "Freya🧑‍🦰"},
-    {"id": "60de84651feb4ac7a0bbc23c45c089e1", "name": "Gia👩‍🦱"},
     {"id": "8a7f5c27e2e04596b079e78a475d852b", "name": "Lacy🙇‍♀️"},
-    {"id": "99d3b0d6e12843adb98519581f849a48", "name": "Zoey🧚‍♀️"},
-    {"id": "53ca9f8d971a4410a5f9b159c56cd080", "name": "Linda🙂‍↔️"},
-    {"id": "3e2a5ae324da43d7b0de0a28182c1b19", "name": "Reina👸"},
-    {"id": "2b38957c81a7418699d639c209fde42f", "name": "Maria👄"},
+
 ]
 
 USE_CONFIG_MODELS_ONLY = True
